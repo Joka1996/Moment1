@@ -9,3 +9,8 @@ body {
 h1 {
   text-decoration: underline 1px dotted black;
 }
+
+ul li {
+  color: green;
+  list-style: square;
+}
